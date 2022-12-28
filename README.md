@@ -24,5 +24,7 @@ I am still a high school student, I began to self-study computer technology at t
 
 <img align="" width="99.9%" src="http://activity-graph.herokuapp.com/graph?username=mufeng233&theme=nord&color=448AFF&point=448AFF&hide_border=true&bg_color=fff" />
 
+![skills](https://skillicons.dev/icons?i=css,express,git,github,html,js,md,nodejs,react,vscode,vue)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mufeng233&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=mufeng233&show_icons=true&locale=en&layout=compact)
