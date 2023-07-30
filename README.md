@@ -3,7 +3,7 @@
 I'm mufeng233.
 I'm from China.
 My hobbies are computer network programming.
-~~ I am still a high school student.
+<del>I am still a high school student.</del>
 I began to self-study computer technology at the age of 15.
 
 | .                                                                                                                                       | .                                                                                                                         |
