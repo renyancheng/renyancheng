@@ -16,6 +16,6 @@ I began to self-study computer technology at the age of 15.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mufeng233/mufeng233&type=Date)]()
 
 
