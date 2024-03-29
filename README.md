@@ -10,6 +10,8 @@ I began to self-study computer technology at the age of 15.
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=renyancheng)](https://githubfast.com/anuraghazra/github-readme-stats) | [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=renyancheng&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=renyancheng&show_icons=true&locale=en&layout=compact) |
 
+![renyancheng](https://count.getloli.com/get/@renyancheng)
+
 ## My Skills
 
 ![skills](https://skillicons.dev/icons?i=css,express,git,github,html,js,md,nodejs,react,vscode,vue)
