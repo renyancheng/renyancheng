@@ -14,7 +14,10 @@ I began to self-study computer technology at the age of 15.
 
 ## My Skills
 
-![skills](https://skillicons.dev/icons?i=css,express,git,github,html,js,md,nodejs,react,vscode,vue)
+![skills](https://skillicons.dev/icons?i=css,express,git,github,html,js,md,nodejs,react,vue,java,vim,spring,nuxtjs)
+
+## My Editors
+![editors](https://skillicons.dev/icons?i=vscode,idea)
 
 ## Star History
 
