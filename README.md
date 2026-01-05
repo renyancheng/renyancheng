@@ -8,7 +8,7 @@ I began to self-study computer technology at the age of 15.
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=renyancheng)](https://githubfast.com/anuraghazra/github-readme-stats) | [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=renyancheng&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=renyancheng&show_icons=true&locale=en&layout=compact) |
+| [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=renyancheng)](https://github.com/anuraghazra/github-readme-stats) | [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=renyancheng&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=renyancheng&show_icons=true&locale=en&layout=compact) |
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mu-feng-n2?theme=light&font=Noto%20Sans&ext=activity&site=cn)
